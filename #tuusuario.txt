@@ -1,0 +1,30 @@
+#tuusuario
+body > form > button:nth-child(8)
+
+#username
+#password
+#loginButton
+
+
+-----------comandos
+node -v
+npm -v
+
+alt 96 comilla
+alt 62 >
+alt 60 <
+alt 91 [
+alt 93 ]
+alt 123 {
+alt 125 }
+
+
+`
+laboratorio2
+emailTest@gmail.com
+
+joan media
+
+gleb bahmutov
+
+https://discord.gg/24rTjhVk

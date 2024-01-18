@@ -1,0 +1,39 @@
+Temporal2023
+
+node -v para saber la version
+
+npm init -y tener un control de lo que se va haciendo dentro del proyecto
+
+npm i cypress --save-dev
+
+npx cypress open --e2e -b electron
+
+npm uninstall cypress –save
+
+2da forma npm install cypress@13.6.1 --save-dev
+
+actualizar 
+yarn upgrade cypress@10.8.0
+
+opciones 
+cypress cache clear
+npm install cypress --save-dev
+
+
+----------------------------
+selectores
+
+[type="password"] encuentra valores totales
+o 
+. #pass encuentra valores parciales
+
+first
+
+
+
+
+describe('template spec', () => {
+  it('passes', () => {
+    cy.visit('https://www.emaras.com.ar')
+  })
+})
